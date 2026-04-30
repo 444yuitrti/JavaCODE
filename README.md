@@ -1,3 +1,3 @@
 # JavaCODE
-THE NEW PROGRAM JavaBlocks v1.0.0 (still in test mode)
+THE NEW PROGRAM JavaCODE v1.1.0
 - Any problem, bug, email: aneculaesei.victor.gabriel@gmail.com
